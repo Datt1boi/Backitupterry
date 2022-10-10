@@ -1,0 +1,1327 @@
+fileFormatVersion: 2
+guid: 709e4206390729b42957fab3cc351c57
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ruby Rose (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: 2, y: 30}
+        - {x: 2, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 30}
+        - {x: -14, y: 30}
+        - {x: -14, y: 28}
+        - {x: -16, y: 28}
+        - {x: -16, y: 14}
+        - {x: -18, y: 12}
+        - {x: -22, y: 12}
+        - {x: -22, y: 10}
+        - {x: -24, y: 10}
+        - {x: -24, y: 8}
+        - {x: -26, y: 8}
+        - {x: -26, y: 4}
+        - {x: -28, y: 4}
+        - {x: -28, y: -8}
+        - {x: -30, y: -8}
+        - {x: -30, y: -18}
+        - {x: -32, y: -18}
+        - {x: -32, y: -28}
+        - {x: -30, y: -28}
+        - {x: -30, y: -30}
+        - {x: -28, y: -30}
+        - {x: -28, y: -28}
+        - {x: -24, y: -28}
+        - {x: -24, y: -26}
+        - {x: -22, y: -26}
+        - {x: -22, y: -24}
+        - {x: -20, y: -24}
+        - {x: -20, y: -28}
+        - {x: -22, y: -28}
+        - {x: -22, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -30}
+        - {x: -12, y: -30}
+        - {x: -12, y: -32}
+        - {x: -10, y: -32}
+        - {x: -10, y: -18}
+        - {x: -8, y: -18}
+        - {x: -8, y: -20}
+        - {x: -6, y: -20}
+        - {x: -6, y: -18}
+        - {x: -4, y: -18}
+        - {x: -4, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -30}
+        - {x: 0, y: -30}
+        - {x: 0, y: -32}
+        - {x: 8, y: -32}
+        - {x: 8, y: -28}
+        - {x: 6, y: -28}
+        - {x: 6, y: -26}
+        - {x: 4, y: -26}
+        - {x: 4, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 4, y: 16}
+        - {x: 2, y: 16}
+        - {x: 2, y: 18}
+        - {x: 6, y: 18}
+        - {x: 6, y: 28}
+        - {x: 4, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c993ccd9676074bab9aa1b5a9e318d
+      internalID: 1291283812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: 2, y: 30}
+        - {x: 2, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 30}
+        - {x: -14, y: 30}
+        - {x: -14, y: 28}
+        - {x: -16, y: 28}
+        - {x: -16, y: 24}
+        - {x: -18, y: 24}
+        - {x: -18, y: 22}
+        - {x: -16, y: 22}
+        - {x: -16, y: 20}
+        - {x: -18, y: 20}
+        - {x: -18, y: 14}
+        - {x: -24, y: 14}
+        - {x: -24, y: 12}
+        - {x: -26, y: 12}
+        - {x: -26, y: 10}
+        - {x: -28, y: 10}
+        - {x: -28, y: 8}
+        - {x: -30, y: 8}
+        - {x: -30, y: 4}
+        - {x: -32, y: 4}
+        - {x: -32, y: -20}
+        - {x: -30, y: -20}
+        - {x: -30, y: -18}
+        - {x: -26, y: -18}
+        - {x: -26, y: -16}
+        - {x: -24, y: -16}
+        - {x: -24, y: -14}
+        - {x: -22, y: -14}
+        - {x: -22, y: -16}
+        - {x: -20, y: -16}
+        - {x: -20, y: -18}
+        - {x: -18, y: -18}
+        - {x: -18, y: -20}
+        - {x: -20, y: -20}
+        - {x: -20, y: -28}
+        - {x: -22, y: -28}
+        - {x: -22, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -30}
+        - {x: -12, y: -30}
+        - {x: -12, y: -32}
+        - {x: -10, y: -32}
+        - {x: -10, y: -14}
+        - {x: -4, y: -14}
+        - {x: -4, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -30}
+        - {x: 0, y: -30}
+        - {x: 0, y: -32}
+        - {x: 8, y: -32}
+        - {x: 8, y: -28}
+        - {x: 6, y: -28}
+        - {x: 6, y: -26}
+        - {x: 4, y: -26}
+        - {x: 4, y: -14}
+        - {x: 8, y: -14}
+        - {x: 8, y: -12}
+        - {x: 10, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 4, y: 16}
+        - {x: 2, y: 16}
+        - {x: 2, y: 18}
+        - {x: 6, y: 18}
+        - {x: 6, y: 28}
+        - {x: 4, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86771fcf75f31147bfd71a29433f6fb
+      internalID: 342398175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 30}
+        - {x: 12, y: 30}
+        - {x: 12, y: 32}
+        - {x: -2, y: 32}
+        - {x: -2, y: 30}
+        - {x: -4, y: 30}
+        - {x: -4, y: 28}
+        - {x: -6, y: 28}
+        - {x: -6, y: 14}
+        - {x: -4, y: 14}
+        - {x: -4, y: 12}
+        - {x: -6, y: 12}
+        - {x: -6, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: 4}
+        - {x: -10, y: 4}
+        - {x: -10, y: 2}
+        - {x: -12, y: 2}
+        - {x: -12, y: -12}
+        - {x: -10, y: -12}
+        - {x: -10, y: -14}
+        - {x: -4, y: -14}
+        - {x: -4, y: -26}
+        - {x: -6, y: -26}
+        - {x: -6, y: -28}
+        - {x: -8, y: -28}
+        - {x: -8, y: -32}
+        - {x: 0, y: -32}
+        - {x: 0, y: -30}
+        - {x: 2, y: -30}
+        - {x: 2, y: -32}
+        - {x: 4, y: -32}
+        - {x: 4, y: -18}
+        - {x: 6, y: -18}
+        - {x: 6, y: -20}
+        - {x: 8, y: -20}
+        - {x: 8, y: -18}
+        - {x: 10, y: -18}
+        - {x: 10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: -30}
+        - {x: 14, y: -30}
+        - {x: 14, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: -28}
+        - {x: 20, y: -28}
+        - {x: 20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: -26}
+        - {x: 24, y: -26}
+        - {x: 24, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: -28}
+        - {x: 32, y: -28}
+        - {x: 32, y: -18}
+        - {x: 30, y: -18}
+        - {x: 30, y: -8}
+        - {x: 28, y: -8}
+        - {x: 28, y: 4}
+        - {x: 26, y: 4}
+        - {x: 26, y: 8}
+        - {x: 24, y: 8}
+        - {x: 24, y: 10}
+        - {x: 22, y: 10}
+        - {x: 22, y: 12}
+        - {x: 18, y: 12}
+        - {x: 18, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: 16}
+        - {x: 10, y: 16}
+        - {x: 10, y: 18}
+        - {x: 14, y: 18}
+        - {x: 14, y: 20}
+        - {x: 16, y: 20}
+        - {x: 16, y: 28}
+        - {x: 14, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442995fd93ee6c147b31e68ebc6f037c
+      internalID: 776931725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 30}
+        - {x: 12, y: 30}
+        - {x: 12, y: 32}
+        - {x: -2, y: 32}
+        - {x: -2, y: 30}
+        - {x: -4, y: 30}
+        - {x: -4, y: 28}
+        - {x: -6, y: 28}
+        - {x: -6, y: 20}
+        - {x: -4, y: 20}
+        - {x: -4, y: 18}
+        - {x: -2, y: 18}
+        - {x: -2, y: 16}
+        - {x: -4, y: 16}
+        - {x: -4, y: 12}
+        - {x: -6, y: 12}
+        - {x: -6, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: 4}
+        - {x: -10, y: 4}
+        - {x: -10, y: 2}
+        - {x: -12, y: 2}
+        - {x: -12, y: -12}
+        - {x: -10, y: -12}
+        - {x: -10, y: -14}
+        - {x: -4, y: -14}
+        - {x: -4, y: -26}
+        - {x: -6, y: -26}
+        - {x: -6, y: -28}
+        - {x: -8, y: -28}
+        - {x: -8, y: -32}
+        - {x: 0, y: -32}
+        - {x: 0, y: -30}
+        - {x: 2, y: -30}
+        - {x: 2, y: -32}
+        - {x: 4, y: -32}
+        - {x: 4, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: -30}
+        - {x: 14, y: -30}
+        - {x: 14, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: -28}
+        - {x: 20, y: -28}
+        - {x: 20, y: -20}
+        - {x: 20, y: -18}
+        - {x: 20, y: -16}
+        - {x: 22, y: -16}
+        - {x: 22, y: -14}
+        - {x: 24, y: -14}
+        - {x: 24, y: -16}
+        - {x: 26, y: -16}
+        - {x: 26, y: -18}
+        - {x: 30, y: -18}
+        - {x: 30, y: -20}
+        - {x: 32, y: -20}
+        - {x: 32, y: 4}
+        - {x: 30, y: 4}
+        - {x: 30, y: 8}
+        - {x: 28, y: 8}
+        - {x: 28, y: 10}
+        - {x: 26, y: 10}
+        - {x: 26, y: 12}
+        - {x: 24, y: 12}
+        - {x: 24, y: 14}
+        - {x: 18, y: 14}
+        - {x: 18, y: 16}
+        - {x: 16, y: 16}
+        - {x: 10, y: 16}
+        - {x: 10, y: 18}
+        - {x: 14, y: 18}
+        - {x: 14, y: 20}
+        - {x: 16, y: 20}
+        - {x: 16, y: 28}
+        - {x: 14, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc166cd36d94531489aa35d74d117805
+      internalID: 399785965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: 2, y: 30}
+        - {x: 2, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 30}
+        - {x: -14, y: 30}
+        - {x: -14, y: 28}
+        - {x: -16, y: 28}
+        - {x: -16, y: 14}
+        - {x: -18, y: 12}
+        - {x: -22, y: 12}
+        - {x: -22, y: 10}
+        - {x: -24, y: 10}
+        - {x: -24, y: 8}
+        - {x: -26, y: 8}
+        - {x: -26, y: 4}
+        - {x: -28, y: 4}
+        - {x: -28, y: -8}
+        - {x: -30, y: -8}
+        - {x: -30, y: -18}
+        - {x: -32, y: -18}
+        - {x: -32, y: -28}
+        - {x: -30, y: -28}
+        - {x: -30, y: -30}
+        - {x: -28, y: -30}
+        - {x: -28, y: -28}
+        - {x: -24, y: -28}
+        - {x: -24, y: -26}
+        - {x: -22, y: -26}
+        - {x: -22, y: -24}
+        - {x: -20, y: -24}
+        - {x: -20, y: -28}
+        - {x: -22, y: -28}
+        - {x: -22, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -30}
+        - {x: -12, y: -30}
+        - {x: -12, y: -32}
+        - {x: -10, y: -32}
+        - {x: -10, y: -20}
+        - {x: -6, y: -20}
+        - {x: -6, y: -18}
+        - {x: -4, y: -18}
+        - {x: -4, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -30}
+        - {x: 0, y: -30}
+        - {x: 0, y: -32}
+        - {x: 8, y: -32}
+        - {x: 8, y: -28}
+        - {x: 6, y: -28}
+        - {x: 6, y: -26}
+        - {x: 4, y: -26}
+        - {x: 4, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 4, y: 16}
+        - {x: 2, y: 16}
+        - {x: 2, y: 18}
+        - {x: 6, y: 18}
+        - {x: 6, y: 28}
+        - {x: 4, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a83d750be47594fb99dfe24f3a3382
+      internalID: 2015512955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: 2, y: 30}
+        - {x: 2, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 30}
+        - {x: -14, y: 30}
+        - {x: -14, y: 28}
+        - {x: -16, y: 28}
+        - {x: -16, y: 24}
+        - {x: -18, y: 24}
+        - {x: -18, y: 22}
+        - {x: -16, y: 22}
+        - {x: -16, y: 20}
+        - {x: -18, y: 20}
+        - {x: -18, y: 14}
+        - {x: -24, y: 14}
+        - {x: -24, y: 12}
+        - {x: -26, y: 12}
+        - {x: -26, y: 10}
+        - {x: -28, y: 10}
+        - {x: -28, y: 8}
+        - {x: -30, y: 8}
+        - {x: -30, y: 4}
+        - {x: -32, y: 4}
+        - {x: -32, y: -20}
+        - {x: -30, y: -20}
+        - {x: -30, y: -18}
+        - {x: -26, y: -18}
+        - {x: -26, y: -16}
+        - {x: -24, y: -16}
+        - {x: -24, y: -14}
+        - {x: -22, y: -14}
+        - {x: -22, y: -16}
+        - {x: -20, y: -16}
+        - {x: -20, y: -18}
+        - {x: -18, y: -18}
+        - {x: -18, y: -20}
+        - {x: -20, y: -20}
+        - {x: -20, y: -28}
+        - {x: -22, y: -28}
+        - {x: -22, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -30}
+        - {x: -12, y: -30}
+        - {x: -12, y: -32}
+        - {x: -10, y: -32}
+        - {x: -10, y: -14}
+        - {x: -4, y: -14}
+        - {x: -4, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -30}
+        - {x: 0, y: -30}
+        - {x: 0, y: -32}
+        - {x: 8, y: -32}
+        - {x: 8, y: -28}
+        - {x: 6, y: -28}
+        - {x: 6, y: -26}
+        - {x: 4, y: -26}
+        - {x: 4, y: -14}
+        - {x: 8, y: -14}
+        - {x: 8, y: -12}
+        - {x: 10, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 4, y: 16}
+        - {x: 2, y: 16}
+        - {x: 2, y: 18}
+        - {x: 6, y: 18}
+        - {x: 6, y: 28}
+        - {x: 4, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc0ececb6f43d64193d51ffc886cc0a
+      internalID: 317208025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: 2, y: 30}
+        - {x: 2, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 30}
+        - {x: -14, y: 30}
+        - {x: -14, y: 28}
+        - {x: -16, y: 28}
+        - {x: -16, y: 14}
+        - {x: -18, y: 12}
+        - {x: -22, y: 12}
+        - {x: -22, y: 10}
+        - {x: -24, y: 10}
+        - {x: -24, y: 8}
+        - {x: -26, y: 8}
+        - {x: -26, y: 4}
+        - {x: -28, y: 4}
+        - {x: -28, y: -8}
+        - {x: -30, y: -8}
+        - {x: -30, y: -18}
+        - {x: -32, y: -18}
+        - {x: -32, y: -28}
+        - {x: -30, y: -28}
+        - {x: -30, y: -30}
+        - {x: -28, y: -30}
+        - {x: -28, y: -28}
+        - {x: -24, y: -28}
+        - {x: -24, y: -26}
+        - {x: -22, y: -26}
+        - {x: -22, y: -24}
+        - {x: -20, y: -24}
+        - {x: -20, y: -28}
+        - {x: -22, y: -28}
+        - {x: -22, y: -32}
+        - {x: -16, y: -32}
+        - {x: -16, y: -28}
+        - {x: -14, y: -28}
+        - {x: -14, y: -32}
+        - {x: -10, y: -32}
+        - {x: -10, y: -20}
+        - {x: -6, y: -20}
+        - {x: -6, y: -18}
+        - {x: -4, y: -18}
+        - {x: -4, y: -30}
+        - {x: 0, y: -30}
+        - {x: 0, y: -26}
+        - {x: 2, y: -26}
+        - {x: 2, y: -30}
+        - {x: 8, y: -30}
+        - {x: 8, y: -26}
+        - {x: 6, y: -26}
+        - {x: 6, y: -24}
+        - {x: 4, y: -24}
+        - {x: 4, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 4, y: 16}
+        - {x: 2, y: 16}
+        - {x: 2, y: 18}
+        - {x: 6, y: 18}
+        - {x: 6, y: 28}
+        - {x: 4, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b02b93280a1b4fa66188b0bbbc816
+      internalID: 389919545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: 2, y: 30}
+        - {x: 2, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 30}
+        - {x: -14, y: 30}
+        - {x: -14, y: 28}
+        - {x: -16, y: 28}
+        - {x: -16, y: 24}
+        - {x: -18, y: 24}
+        - {x: -18, y: 22}
+        - {x: -16, y: 22}
+        - {x: -16, y: 20}
+        - {x: -18, y: 20}
+        - {x: -18, y: 14}
+        - {x: -24, y: 14}
+        - {x: -24, y: 12}
+        - {x: -26, y: 12}
+        - {x: -26, y: 10}
+        - {x: -28, y: 10}
+        - {x: -28, y: 8}
+        - {x: -30, y: 8}
+        - {x: -30, y: 4}
+        - {x: -32, y: 4}
+        - {x: -32, y: -20}
+        - {x: -30, y: -20}
+        - {x: -30, y: -18}
+        - {x: -26, y: -18}
+        - {x: -26, y: -16}
+        - {x: -24, y: -16}
+        - {x: -24, y: -14}
+        - {x: -22, y: -14}
+        - {x: -22, y: -16}
+        - {x: -20, y: -16}
+        - {x: -20, y: -18}
+        - {x: -18, y: -18}
+        - {x: -18, y: -20}
+        - {x: -20, y: -20}
+        - {x: -20, y: -26}
+        - {x: -22, y: -26}
+        - {x: -22, y: -30}
+        - {x: -14, y: -30}
+        - {x: -14, y: -26}
+        - {x: -12, y: -26}
+        - {x: -12, y: -30}
+        - {x: -10, y: -30}
+        - {x: -10, y: -14}
+        - {x: -4, y: -14}
+        - {x: -4, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -28}
+        - {x: 0, y: -28}
+        - {x: 0, y: -32}
+        - {x: 8, y: -32}
+        - {x: 8, y: -28}
+        - {x: 6, y: -28}
+        - {x: 6, y: -24}
+        - {x: 4, y: -24}
+        - {x: 4, y: -14}
+        - {x: 8, y: -14}
+        - {x: 8, y: -12}
+        - {x: 10, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 4, y: 16}
+        - {x: 2, y: 16}
+        - {x: 2, y: 18}
+        - {x: 6, y: 18}
+        - {x: 6, y: 28}
+        - {x: 4, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a55f21a06dacbc48b6730d67cbe3d7f
+      internalID: 2067486810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: 2, y: 30}
+        - {x: 2, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 30}
+        - {x: -14, y: 30}
+        - {x: -14, y: 28}
+        - {x: -16, y: 28}
+        - {x: -16, y: 14}
+        - {x: -18, y: 12}
+        - {x: -22, y: 12}
+        - {x: -22, y: 10}
+        - {x: -24, y: 10}
+        - {x: -24, y: 8}
+        - {x: -26, y: 8}
+        - {x: -26, y: 4}
+        - {x: -28, y: 4}
+        - {x: -28, y: -8}
+        - {x: -30, y: -8}
+        - {x: -30, y: -18}
+        - {x: -32, y: -18}
+        - {x: -32, y: -28}
+        - {x: -30, y: -28}
+        - {x: -30, y: -30}
+        - {x: -28, y: -30}
+        - {x: -28, y: -28}
+        - {x: -24, y: -28}
+        - {x: -24, y: -26}
+        - {x: -22, y: -26}
+        - {x: -22, y: -24}
+        - {x: -20, y: -24}
+        - {x: -20, y: -28}
+        - {x: -22, y: -28}
+        - {x: -22, y: -32}
+        - {x: -14, y: -32}
+        - {x: -14, y: -30}
+        - {x: -12, y: -30}
+        - {x: -12, y: -32}
+        - {x: -10, y: -32}
+        - {x: -10, y: -18}
+        - {x: -8, y: -18}
+        - {x: -8, y: -20}
+        - {x: -6, y: -20}
+        - {x: -6, y: -18}
+        - {x: -4, y: -18}
+        - {x: -4, y: -30}
+        - {x: -2, y: -30}
+        - {x: -2, y: -28}
+        - {x: 0, y: -28}
+        - {x: 0, y: -30}
+        - {x: 8, y: -30}
+        - {x: 8, y: -26}
+        - {x: 6, y: -26}
+        - {x: 6, y: -24}
+        - {x: 4, y: -24}
+        - {x: 4, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 4, y: 16}
+        - {x: 2, y: 16}
+        - {x: 2, y: 18}
+        - {x: 6, y: 18}
+        - {x: 6, y: 28}
+        - {x: 4, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a80d5c2b7607b44b999277f9225cb3
+      internalID: -691048884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: 2, y: 30}
+        - {x: 2, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 30}
+        - {x: -14, y: 30}
+        - {x: -14, y: 28}
+        - {x: -16, y: 28}
+        - {x: -16, y: 14}
+        - {x: -18, y: 12}
+        - {x: -22, y: 12}
+        - {x: -22, y: 10}
+        - {x: -24, y: 10}
+        - {x: -24, y: 8}
+        - {x: -26, y: 8}
+        - {x: -26, y: 4}
+        - {x: -28, y: 4}
+        - {x: -28, y: -8}
+        - {x: -30, y: -8}
+        - {x: -30, y: -18}
+        - {x: -32, y: -18}
+        - {x: -32, y: -28}
+        - {x: -30, y: -28}
+        - {x: -30, y: -30}
+        - {x: -28, y: -30}
+        - {x: -28, y: -28}
+        - {x: -24, y: -28}
+        - {x: -24, y: -26}
+        - {x: -22, y: -26}
+        - {x: -22, y: -24}
+        - {x: -20, y: -24}
+        - {x: -20, y: -26}
+        - {x: -22, y: -26}
+        - {x: -22, y: -30}
+        - {x: -14, y: -30}
+        - {x: -14, y: -28}
+        - {x: -12, y: -28}
+        - {x: -12, y: -30}
+        - {x: -10, y: -30}
+        - {x: -10, y: -18}
+        - {x: -8, y: -18}
+        - {x: -8, y: -20}
+        - {x: -6, y: -20}
+        - {x: -6, y: -18}
+        - {x: -4, y: -18}
+        - {x: -4, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -30}
+        - {x: 0, y: -30}
+        - {x: 0, y: -32}
+        - {x: 8, y: -32}
+        - {x: 8, y: -26}
+        - {x: 6, y: -26}
+        - {x: 6, y: -24}
+        - {x: 4, y: -24}
+        - {x: 4, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 4, y: 16}
+        - {x: 2, y: 16}
+        - {x: 2, y: 18}
+        - {x: 6, y: 18}
+        - {x: 6, y: 28}
+        - {x: 4, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124eb7ad0d9257a41949d85642ef9a2b
+      internalID: 86984204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 30}
+        - {x: 12, y: 30}
+        - {x: 12, y: 32}
+        - {x: -2, y: 32}
+        - {x: -2, y: 30}
+        - {x: -4, y: 30}
+        - {x: -4, y: 28}
+        - {x: -6, y: 28}
+        - {x: -6, y: 14}
+        - {x: -4, y: 14}
+        - {x: -4, y: 12}
+        - {x: -6, y: 12}
+        - {x: -6, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: 4}
+        - {x: -10, y: 4}
+        - {x: -10, y: 2}
+        - {x: -12, y: 2}
+        - {x: -12, y: -12}
+        - {x: -10, y: -12}
+        - {x: -10, y: -14}
+        - {x: -4, y: -14}
+        - {x: -4, y: -24}
+        - {x: -6, y: -24}
+        - {x: -6, y: -26}
+        - {x: -8, y: -26}
+        - {x: -8, y: -30}
+        - {x: 0, y: -30}
+        - {x: 0, y: -28}
+        - {x: 2, y: -28}
+        - {x: 2, y: -30}
+        - {x: 4, y: -30}
+        - {x: 4, y: -18}
+        - {x: 6, y: -18}
+        - {x: 6, y: -20}
+        - {x: 8, y: -20}
+        - {x: 8, y: -18}
+        - {x: 10, y: -18}
+        - {x: 10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: -30}
+        - {x: 14, y: -30}
+        - {x: 14, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: -28}
+        - {x: 20, y: -28}
+        - {x: 20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: -26}
+        - {x: 24, y: -26}
+        - {x: 24, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: -28}
+        - {x: 32, y: -28}
+        - {x: 32, y: -18}
+        - {x: 30, y: -18}
+        - {x: 30, y: -8}
+        - {x: 28, y: -8}
+        - {x: 28, y: 4}
+        - {x: 26, y: 4}
+        - {x: 26, y: 8}
+        - {x: 24, y: 8}
+        - {x: 24, y: 10}
+        - {x: 22, y: 10}
+        - {x: 22, y: 12}
+        - {x: 18, y: 12}
+        - {x: 18, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: 16}
+        - {x: 10, y: 16}
+        - {x: 10, y: 18}
+        - {x: 14, y: 18}
+        - {x: 14, y: 20}
+        - {x: 16, y: 20}
+        - {x: 16, y: 28}
+        - {x: 14, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7015e1184078a84ca50d91f6eb4df5e
+      internalID: 2034837472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruby Rose (1)_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 30}
+        - {x: 12, y: 30}
+        - {x: 12, y: 32}
+        - {x: -2, y: 32}
+        - {x: -2, y: 30}
+        - {x: -4, y: 30}
+        - {x: -4, y: 28}
+        - {x: -6, y: 28}
+        - {x: -6, y: 14}
+        - {x: -4, y: 14}
+        - {x: -4, y: 12}
+        - {x: -6, y: 12}
+        - {x: -6, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: 4}
+        - {x: -10, y: 4}
+        - {x: -10, y: 2}
+        - {x: -12, y: 2}
+        - {x: -12, y: -12}
+        - {x: -10, y: -12}
+        - {x: -10, y: -14}
+        - {x: -4, y: -14}
+        - {x: -4, y: -24}
+        - {x: -6, y: -24}
+        - {x: -6, y: -26}
+        - {x: -8, y: -26}
+        - {x: -8, y: -32}
+        - {x: 0, y: -32}
+        - {x: 0, y: -30}
+        - {x: 2, y: -30}
+        - {x: 2, y: -32}
+        - {x: 4, y: -32}
+        - {x: 4, y: -18}
+        - {x: 6, y: -18}
+        - {x: 6, y: -20}
+        - {x: 8, y: -20}
+        - {x: 8, y: -18}
+        - {x: 10, y: -18}
+        - {x: 10, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: -28}
+        - {x: 14, y: -28}
+        - {x: 14, y: -30}
+        - {x: 22, y: -30}
+        - {x: 22, y: -26}
+        - {x: 20, y: -26}
+        - {x: 20, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: -26}
+        - {x: 24, y: -26}
+        - {x: 24, y: -28}
+        - {x: 28, y: -28}
+        - {x: 28, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: -28}
+        - {x: 32, y: -28}
+        - {x: 32, y: -18}
+        - {x: 30, y: -18}
+        - {x: 30, y: -8}
+        - {x: 28, y: -8}
+        - {x: 28, y: 4}
+        - {x: 26, y: 4}
+        - {x: 26, y: 8}
+        - {x: 24, y: 8}
+        - {x: 24, y: 10}
+        - {x: 22, y: 10}
+        - {x: 22, y: 12}
+        - {x: 18, y: 12}
+        - {x: 18, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: 16}
+        - {x: 10, y: 16}
+        - {x: 10, y: 18}
+        - {x: 14, y: 18}
+        - {x: 14, y: 20}
+        - {x: 16, y: 20}
+        - {x: 16, y: 28}
+        - {x: 14, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becda7980f7b2674fa00282ac2a6244d
+      internalID: 1143441440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ruby Rose (1)_0: 1291283812
+      Ruby Rose (1)_10: 2034837472
+      Ruby Rose (1)_5: 317208025
+      Ruby Rose (1)_8: -691048884
+      Ruby Rose (1)_7: 2067486810
+      Ruby Rose (1)_4: 2015512955
+      Ruby Rose (1)_3: 399785965
+      Ruby Rose (1)_6: 389919545
+      Ruby Rose (1)_1: 342398175
+      Ruby Rose (1)_9: 86984204
+      Ruby Rose (1)_11: 1143441440
+      Ruby Rose (1)_2: 776931725
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
